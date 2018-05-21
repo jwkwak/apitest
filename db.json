@@ -48,9 +48,6 @@
             "speed":4.59,
             "deg":163.001
          },
-         "clouds":{  
-            "all":92
-         },
          "weather":[  
             {  
                "id":500,
@@ -78,9 +75,6 @@
             "speed":4.04,
             "deg":226
          },
-         "clouds":{  
-            "all":92
-         },
          "weather":[  
             {  
                "id":500,
@@ -105,9 +99,6 @@
          "wind":{  
             "speed":2.6,
             "deg":30
-         },
-         "clouds":{  
-            "all":90
          },
          "weather":[  
             {  
