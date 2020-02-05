@@ -1,9 +1,6 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    { id: 1, name: "Kayak", category: "Watersports", price: 275 },
   ],
   "profile": {
     "name": "typicode"
