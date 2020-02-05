@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/jwkwak]
+[https://my-json-server.typicode.com/jwkwak/apitest]
 
 ## Use your own data
 
